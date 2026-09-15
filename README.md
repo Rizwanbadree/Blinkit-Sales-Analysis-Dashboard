@@ -17,7 +17,7 @@ The dashboard provides an interactive overview of Blinkit's sales performance.
 - Data Visualization
 - Dashboard Development
 ---
-# 📈 Key Performance Indicators
+# Key Performance Indicators
 The dashboard highlights the following major KPIs:
 | KPI | Value |
 |  Total Sales | **$1.20M** |
@@ -26,7 +26,7 @@ The dashboard highlights the following major KPIs:
 | Average Rating | **4.0** |
 These KPIs provide a quick overview of the overall business performance.
 ---
-# 📊 Dashboard Analysis
+#  Dashboard Analysis
 
 ## 1. Outlet Establishment Analysis
 
