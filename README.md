@@ -6,7 +6,7 @@ The main objective of this project is to transform sales data into meaningful bu
 ---
 Dashboard Preview
 The dashboard provides an interactive overview of Blinkit's sales performance.
-[![Blinkit Sales Dashboard](images/Blinkit_Dashboard.png)](images/Blinkit_Dashboard.png)
+![Blinkit Sales Dashboard](Blinkit_Dashboard.png)
 ---
 #  Tools & Technologies
 - **Microsoft Excel**
