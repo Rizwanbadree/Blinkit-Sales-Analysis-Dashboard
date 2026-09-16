@@ -1,5 +1,6 @@
  Blinkit Sales Analysis Dashboard
- 📌 Project Overview
+ 
+  Project Overview
 This project presents an interactive **Blinkit Sales Analysis Dashboard** created using **Microsoft Excel**.
 The dashboard provides a comprehensive view of sales performance across different product categories, outlet sizes, outlet locations, outlet types, fat-content segments, and outlet establishment years.
 The main objective of this project is to transform sales data into meaningful business insights that can help understand outlet performance, product demand, and sales trends.
